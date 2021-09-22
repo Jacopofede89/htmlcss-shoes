@@ -63,7 +63,7 @@ a {
     margin-right:10px;
   }
   
-  nav, .scroll-container {
+  nav {
     display: block;
     text-align: right;
   }
