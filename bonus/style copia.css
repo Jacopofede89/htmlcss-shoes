@@ -65,7 +65,9 @@ a {
   
   nav {
     display: block;
-    text-align: right;
+    margin-left: 1300px;
+    position: fixed;
+    z-index: 9999 ;
   }
   
   
